@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/Player/BP_RTSBuildingGamemode.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/Player/BP_AIPlayer.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_MasterBuilding.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/UnitActors/BP_MasterUnit.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/Player/BP_RTSPawn.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/UnitActors/BP_SoldierUnit.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/UnitActors/BP_UnitController.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Maps/Overview.umap",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_Barracks.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDBarracks.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDBuildingMenu.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDRecruitment.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/PreviewActors/BP_MasterPreview.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/UnitActors/BP_ZombieUnit.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/UnitActors/BP_ZombieBrute.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_SpawningPit.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Materials/World/M_Grass.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Materials/Meshes/M_TreeTrunk01.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDResearch.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDUnit.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDNecromancerUnit.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/UnitActors/BP_NecromancerUnit.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_Farm.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_House.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_Foundary.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_Lumberyard.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_Mines.uasset",
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_Tower.uasset"
+			]
+		}
+	]
+}
