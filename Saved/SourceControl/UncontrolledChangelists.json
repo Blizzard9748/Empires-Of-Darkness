@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Uni/BCI304/Empires-Of-Darkness/Content/RTS_Builder_Template/Maps/Overview.umap",
+				"D:/Uni/BCI304/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Others/BP_Test.uasset",
+				"D:/Uni/BCI304/Empires-Of-Darkness/Content/RTS_Builder_Template/Maps/MapExperiments.umap",
 				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/Player/BP_RTSBuildingGamemode.uasset",
 				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/Player/BP_AIPlayer.uasset",
 				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_MasterBuilding.uasset",
