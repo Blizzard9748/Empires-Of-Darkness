@@ -32,7 +32,17 @@
 				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_Foundary.uasset",
 				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_Lumberyard.uasset",
 				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_Mines.uasset",
-				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_Tower.uasset"
+				"D:/RTS_Testing/RTSTemplate/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_Tower.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/UnitActors/BP_NecromancerUnit.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDNecromancerUnit.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Player/BP_RTSPawn.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/UnitActors/BP_MasterUnit.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_MasterBuilding.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Player/BP_AIPlayer.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDBarracks.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDBuildingMenu.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDRecruitment.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDUnit.uasset"
 			]
 		}
 	]
