@@ -42,7 +42,19 @@
 				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDBarracks.uasset",
 				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDBuildingMenu.uasset",
 				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDRecruitment.uasset",
-				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDUnit.uasset"
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Widgets/BP_HUDUnit.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Others/BP_DetectionRange.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/Widgets/BP_NoAbilities.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Maps/Overview.umap",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_ZombieHomebase.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_Barracks.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_ZombieLumberMill.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_SpawningPit.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_ZombieHeavySpawner.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_ZombiePopIncrease.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_ZombieFarm.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_ZombieMines.uasset",
+				"D:/Empires-Of-Darkness/Content/RTS_Builder_Template/Blueprints/BuildingActors/BP_RuneGenarator.uasset"
 			]
 		}
 	]
